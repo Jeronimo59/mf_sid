@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <uri id="Imports Wizard Entry" name="http://www.tmforum.org/oda/sid/party@fr" uri="file:/C:/Users/jhann/Documents/GitHub/MFProjects/SID/items/item_00/contents/entities/SID-Item00-entities-fr.rdf"/>
+    <uri id="Imports Wizard Entry" name="http://www.tmforum.org/oda/sid/party@schema" uri="file:/C:/Users/jhann/Documents/GitHub/MFProjects/SID/items/item_00/contents/entities/SID-Item00-entities-schema.rdf"/>
+    <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
+        <uri id="Automatically generated entry, Timestamp=1700468605583" name="http://www.tmforum.org/oda/sid/party§schema-fr" uri="party-schema-fr.rdf"/>
+    </group>
+</catalog>
