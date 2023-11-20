@@ -25,7 +25,7 @@
 
     <owl:Class rdf:about="http://www.tmforum.org/oda/sid/party#LegalEntity">
          <rdf:label xml:lang="fr">Personne morale</rdf:label>
-         <rdfs:comment xml:lang="fr">Une personne morale un concept legal par lequel la loi permet à un groupe de personnes physiques d'agir comme s'ils n'étaient qu'un seul individu dans certaines situations.</rdfs:comment>
+         <rdfs:comment xml:lang="fr">Une personne morale est un concept legal par lequel la loi permet à un groupe de personnes physiques d'agir comme s'ils n'étaient qu'un seul individu dans certaines situations.</rdfs:comment>
     </owl:Class>
     
 
@@ -43,7 +43,7 @@
     <!-- http://www.tmforum.org/oda/sid/party#Person -->
 
     <owl:Class rdf:about="http://www.tmforum.org/oda/sid/party#Person">
-         <rdf:label xml:lang="fr">Personne physique</rdf:label>
+         <rdf:label xml:lang="fr">Personne</rdf:label>
     </owl:Class>
 </rdf:RDF>
 

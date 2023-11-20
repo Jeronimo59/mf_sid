@@ -1,14 +1,15 @@
 <?xml version="1.0"?>
-<rdf:RDF xmlns="http://www.tmforum.org/oda/sid/party§schema-en"
-     xml:base="http://www.tmforum.org/oda/sid/party§schema-en"
+<rdf:RDF xmlns="http://www.tmforum.org/oda/sid/party/views/schema-en-fr"
+     xml:base="http://www.tmforum.org/oda/sid/party/views/schema-en-fr"
      xmlns:owl="http://www.w3.org/2002/07/owl#"
      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:xml="http://www.w3.org/XML/1998/namespace"
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
-    <owl:Ontology rdf:about="http://www.tmforum.org/oda/sid/party§schema-en">
-        <owl:imports rdf:resource="http://www.tmforum.org/oda/sid/party@schema"/>
+    <owl:Ontology rdf:about="http://www.tmforum.org/oda/sid/party/views/schema-en-fr">
         <owl:imports rdf:resource="http://www.tmforum.org/oda/sid/party@en"/>
+        <owl:imports rdf:resource="http://www.tmforum.org/oda/sid/party@fr"/>
+        <owl:imports rdf:resource="http://www.tmforum.org/oda/sid/party@schema"/>
     </owl:Ontology>
 </rdf:RDF>
 
